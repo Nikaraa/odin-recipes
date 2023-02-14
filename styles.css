@@ -1,0 +1,45 @@
+.title{
+    text-align: center;
+    font-size: 32px;
+    background: black; color: white;
+    font-weight: bold;
+}
+
+.title#two{
+    font-weight: bold;
+    font-size: 26px;
+    background-color: red;
+}
+
+.img{
+    width: 300px;
+}
+
+.links{
+    text-align: right;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+
+p{ 
+    font-size: 17px;
+    text-align: left; 
+}
+
+div{ 
+    font-size: 17px;
+    text-align: left;
+}
+
+.list{
+    background-color:orange;
+    font-size: 18px;
+}
+
+#undertitle{
+    font-weight: 100;
+    text-align: center;
+    color: grey;
+    font-size: 22px;
+}
