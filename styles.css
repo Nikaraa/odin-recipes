@@ -1,3 +1,6 @@
+*{
+    font-family: sans-serif, 'Times New Roman';
+}
 .title{
     text-align: center;
     font-size: 32px;
@@ -5,10 +8,11 @@
     font-weight: bold;
 }
 
-.title#two{
+#two{
     font-weight: bold;
     font-size: 26px;
     background-color: red;
+    font-family: sans-serif, 'Times New Roman';
 }
 
 .img{
